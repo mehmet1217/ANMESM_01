@@ -1,4 +1,4 @@
-package com.mehmet.test;
+package com.mehmet.test.loginDemo;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
